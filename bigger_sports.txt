@@ -1,0 +1,92 @@
+
+1. Prompt: What is the duration of a soccer match?
+   Response: A soccer match typically lasts for 90 minutes, divided into two halves of 45 minutes each, with a 15-minute halftime break.
+
+2. Prompt: How many players are on a basketball team?
+   Response: A basketball team has 5 players on the court during the game, with substitutes on the bench.
+
+3. Prompt: What is a grand slam in tennis?
+   Response: A grand slam in tennis refers to winning all four major tournaments (Australian Open, French Open, Wimbledon, and US Open) in a single calendar year.
+
+4. Prompt: How is the winner determined in a golf tournament?
+   Response: In most golf tournaments, the player with the lowest total number of strokes at the end of the rounds wins the tournament.
+
+5. Prompt: What does 'offside' mean in soccer?
+   Response: In soccer, a player is offside if they are closer to the opponent's goal line than both the ball and the second-to-last defender when the ball is passed to them.
+
+6. Prompt: How many sets are played in a volleyball match?
+   Response: A volleyball match is usually played as a best-of-five sets. The first team to win three sets wins the match.
+
+7. Prompt: What is a hat-trick in cricket?
+   Response: A hat-trick in cricket occurs when a bowler takes three wickets in consecutive deliveries.
+
+8. Prompt: What is the role of a quarterback in American football?
+   Response: The quarterback in American football is the leader of the offense, responsible for passing the ball, handing it off to running backs, or running with it themselves.
+
+9. Prompt: How is scoring done in rugby?
+   Response: In rugby, points are scored through tries (5 points), conversions (2 points), penalty goals (3 points), and drop goals (3 points).
+
+10. Prompt: How many innings are in a standard baseball game?
+    Response: A standard baseball game consists of 9 innings. Each team gets to bat once per inning.
+
+11. Prompt: What is the difference between a free kick and a penalty kick in soccer?
+    Response: A free kick is awarded for general fouls and can be taken from anywhere on the field, while a penalty kick is awarded for fouls committed within the penalty area and is taken from the penalty spot.
+
+12. Prompt: What is a power play in ice hockey?
+    Response: A power play in ice hockey occurs when one team has more players on the ice due to a penalty given to the opposing team.
+
+13. Prompt: How is a point scored in badminton?
+    Response: A point in badminton is scored when a player wins a rally by either landing the shuttlecock in the opponent's court or forcing the opponent to make a mistake.
+
+14. Prompt: What are the basic rules of table tennis?
+    Response: In table tennis, players alternate hitting a small ball across a net on a table using paddles, with the objective of landing the ball in the opponent's side of the table. A match is usually won by the first player to reach 11 points with at least a 2-point lead.
+
+15. Prompt: How long is a marathon race?
+    Response: A marathon race is 42.195 kilometers or 26.2 miles long.
+
+16. Prompt: What is a red card in soccer?
+    Response: A red card is given for serious fouls or misconduct in soccer, resulting in the player being sent off the field for the remainder of the match.
+
+17. Prompt: What is the role of a striker in soccer?
+    Response: A striker in soccer is typically the player responsible for scoring goals, often positioned closest to the opponent's goal.
+
+18. Prompt: How many periods are there in an ice hockey game?
+    Response: An ice hockey game is divided into three periods, each lasting 20 minutes.
+
+19. Prompt: What is a corner kick in soccer?
+    Response: A corner kick is awarded when the ball goes over the goal line, last touched by a defender, and is taken from the corner nearest to where the ball went out.
+
+20. Prompt: What is a touchdown in American football?
+    Response: A touchdown in American football is scored when a team gets the ball into the opponent's end zone, earning 6 points.
+
+21. Prompt: How is scoring done in basketball?
+    Response: Points in basketball are scored through field goals (2 or 3 points depending on the shot's distance) and free throws (1 point).
+
+22. Prompt: What is a free throw in basketball?
+    Response: A free throw is an unopposed attempt to score from the free-throw line, awarded after certain fouls.
+
+23. Prompt: How many sets are there in a Grand Slam tennis final?
+    Response: In men's Grand Slam tennis finals, matches are best-of-five sets, while women's finals are best-of-three sets.
+
+24. Prompt: What is a bogey in golf?
+    Response: A bogey in golf is a score of one stroke over par for a hole.
+
+25. Prompt: What is the penalty for a foul in basketball?
+    Response: A player committing a foul in basketball may cause the opposing team to receive free throws or lose possession of the ball, depending on the situation.
+
+26. Prompt: What is a no-ball in cricket?
+    Response: A no-ball in cricket is an illegal delivery, often due to overstepping the crease, resulting in an extra run for the batting team and a free hit for the next ball.
+
+27. Prompt: How many players are on a rugby team?
+    Response: In rugby union, each team has 15 players on the field, while in rugby league, there are 13 players per team.
+
+28. Prompt: What is a penalty kick in rugby?
+    Response: A penalty kick in rugby is awarded for certain infringements and can be used to score points by kicking the ball through the opponent's goalposts.
+
+29. Prompt: How many players are there in a baseball team?
+    Response: A baseball team has 9 players on the field at one time, with additional players available as substitutes.
+
+30. Prompt: What is a knockout in boxing?
+    Response: A knockout (KO) in boxing occurs when a fighter is unable to continue after being knocked down and fails to get up before the referee counts to ten.
+
+... (200 prompts and responses in total)
